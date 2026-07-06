@@ -1,4 +1,4 @@
-# GapR_ATvsSC
+# GapR_ATvsSC DOI: 10.5281/zenodo.21224551
 Jupyter Notebooks and assocaited processed data are used to generate figures in NAR manuscript: "GapR stiffens AT-rich and overtwisted DNA leading to differential effects on transcription based on gene context" 
 
 First Notebook to run: Step1_downlaods_and_ChIP_analysis
